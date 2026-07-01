@@ -1,5 +1,4 @@
-# 🥒 CucumberOS 🥒
-
+# MOAYEDOS
 ## A CUSTOM OS!
 - Custom OS with the theme of a cucumber
 - Contains advanced note taker app
@@ -7,11 +6,6 @@
 - NEW! : Background settings
 - NEW! : Terminal
 - NEW! : Screentime
-
-## WHY A CUCUMBER?
-- I really like the vegetable Cucumber
-- It also sounds so good
-
 ## WHY IS THE NOTETAKER APP ADVANCED?
 - Has a functional sidebar
 - Has a functional color change for every new note
